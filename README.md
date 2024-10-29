@@ -1,4 +1,4 @@
-Nombre: Yehicofs Araya
+Nombre: Yehicofs Araya - Joaquin Carvajal
 
 ##Funcionalidad
 Mostrar ubicación actual en el mapa
