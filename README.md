@@ -18,7 +18,7 @@ Este proyecto contiene informes de seguridad para proteger una app desarrollada 
 - Validación y sanitización de entradas 
 
 ## Documentación 
-- [Vulnerabilidades](Vulnerabilidades.md) 
+- [Vulnerabilidades](vulnerabilidades.md) 
 - [Mejores practicas](Mejores_practicas.md) 
 - [Tips de seguridad](Tips_seguridad.md) 
 - [Programa de mejora de seguridad](programa_mejora.md) 
