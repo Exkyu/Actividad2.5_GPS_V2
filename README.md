@@ -21,7 +21,7 @@ Este proyecto contiene informes de seguridad para proteger una app desarrollada 
 - [Vulnerabilidades](Vulnerabilidades.md) 
 - [Mejores practicas](Mejores_practicas.md) 
 - [Tips de seguridad](Tips_seguridad.md) 
-- [Programa de mejora de seguridad](security_improvement_program.md) 
+- [Programa de mejora de seguridad](programa_mejora.md) 
 
 ## Cómo Ejecutar la Aplicación de Forma Segura 
 1. Clonar el repositorio 
